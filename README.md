@@ -36,7 +36,7 @@ This tool collects retweet data, analyzes user relationships, and classifies use
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/social-network-analysis-tool.git
+git clone https://github.com/gkdnz77/retweet-network-analyzer-tool.git
 cd social-network-analysis-tool
 ```
 
